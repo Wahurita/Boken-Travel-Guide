@@ -1,0 +1,21 @@
+.hi{
+    color: black;
+    background-color: aqua;
+}
+pic{
+    border-radius: 15px;
+    border-color: gray;
+}
+.quick{
+    border: solid black;
+    border-radius: 15px;
+}
+.paragraph{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+form{
+    background-color: gray;
+    padding: 15px;
+    border-radius: 15px;
+}
